@@ -12,6 +12,14 @@
     <?php 
 echo "hello world";
 ?>
+
+<?php 
+$greeting = [ "hello ","world"
+];
+for($i = 0; $i < count($greeting); $i++){
+    echo $greeting[$i];
+}
+?>
 </body>
 </html>
 
