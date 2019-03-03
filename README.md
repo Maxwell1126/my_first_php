@@ -1,5 +1,5 @@
 # my_first_php
-This is my first ever php project. I learned how to declare a variable, work with arrays, and run a php project with terminal and a browser.
+This is my first ever php project. I learned how to declare a variable, work with arrays, loops, and conditionals, and run a php project with terminal and a browser.
 
 ## Setup
 - Download this repo.
